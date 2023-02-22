@@ -1,6 +1,3 @@
-# Get-to-Know-Ankur
-Glorified About me!
-
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">Mathematics Enthusiast. I aspire to do research and development in the Artificial Intelligence domain.</h3>
 
