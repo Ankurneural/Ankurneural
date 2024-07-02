@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankurneural](https://github.com/Ankurneural)
 
-- 📫 How to reach me **ankur@sjsu.edu**
+- 📫 How to reach me **ankurparmar42@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ankur099/](https://www.linkedin.com/in/ankur099/)
 
